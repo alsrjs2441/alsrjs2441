@@ -1,6 +1,6 @@
 ﻿# MingeonKim
  
- ## Project
+ ## 💬Project
   <a href = "https://github.com/alsrjs2441/JavaProject_goodjob.git">goodjob</a><br>
   <a href = "https://github.com/alsrjs2441/Semiconductor-Cleaning-process.git">Semicoductor Project</a><br>
 
