@@ -1,8 +1,9 @@
 ﻿# MingeonKim
  
  ## 🧱Project
-  <a href = "https://github.com/alsrjs2441/JavaProject_goodjob.git">goodjob</a><br>
+  <a href = "https://github.com/alsrjs2441/JavaProject_goodjob.git">goodjob project</a><br>
   <a href = "https://github.com/alsrjs2441/Semiconductor-Cleaning-process.git">Semicoductor Project</a><br>
+  <a href = "https://github.com/Ta-Ye/PizzaHot.git">Pizza Hot Project</a><br>
   
 <!--
 **alsrjs2441/alsrjs2441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
