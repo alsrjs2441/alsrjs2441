@@ -1,6 +1,7 @@
 ﻿# MingeonKim
  
  ## 🧱Project
+  <a href = "https://github.com/alsrjs2441/Smart-Factory-Monitoring-System.git"> S-Hero Smart factory project</a><br>
   <a href = "https://github.com/alsrjs2441/JavaProject_goodjob.git">goodjob project</a><br>
   <a href = "https://github.com/alsrjs2441/Semiconductor-Cleaning-process.git">Semicoductor Project</a><br>
   <a href = "https://github.com/Encore-Playdata-Course/PizzaHot.git">Pizza Hot Project</a><br>
